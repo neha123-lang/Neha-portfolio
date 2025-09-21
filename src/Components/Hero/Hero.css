@@ -48,6 +48,11 @@ img {
     border-radius: 50px;
     border: 2px solid #fff;
     cursor: pointer;
+    
+}
+.hero-resume a{
+  color: white;       /* Text color */
+  text-decoration: none;
 }
 .hero-connect:hover{
     border: 2px solid white;
